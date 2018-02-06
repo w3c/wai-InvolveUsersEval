@@ -11,21 +11,15 @@ Introduction
 
 Web accessibility evaluation often focuses on [conformance to
 accessibility standards](/test-eval/conformance-eval/) such as
-[WCAG](/standards/wcag/). While conformance is
-important, there are many [benefits to evaluating with real
-people](http://www.w3.org/WAI/EO/Drafts/involving/Overview.html#why) to
+[WCAG](/standards/wcag/). Conformance is
+important. But there are many [benefits to evaluating with real
+people](http://www.w3.org/WAI/EO/Drafts/involving/Overview.html#why). For example, to
 learn how your website or web tool really works for users and to better
 understand accessibility issues. Evaluating with users with disabilities
 and with older users identifies usability issues that are not discovered
 by conformance evaluation alone.
 
-This page is part of a multi-page [Evaluating Web Accessibility resource
-suite](/WAI/eval/Overview) that outlines different aspects of evaluating
-web accessibility. It is the second of two pages on including users in
-web projects; **please read [Including Users in Web Projects for
-Better, Easier Accessibility](/WAI/users/involving), which covers
-broader issues of including users *early* in website design, tool
-development, standards, and other web projects.**
+This page is part of a multi-page [Evaluating Web Accessibility resource suite](/WAI/eval/Overview) that outlines different aspects of evaluating web accessibility. It is the second of two pages on including users in web projects. **Please read [Including Users in Web Projects for Better, Easier Accessibility](/WAI/users/involving), which covers broader issues of including users *early* in website design, tool development, standards, and other web projects.**
 
 Initial Review {#prelim}
 -------------------------
@@ -56,11 +50,7 @@ Users with disabilities and older users can be included in a wide range
 of evaluation activities, from brief consultations to large-scale
 usability studies. **There are many options in between these extremes**:
 
--   Informal evaluation of a specific accessibility issue can be as
-    simple as asking someone you know who uses a screen reader, someone
-    with other disabilities, or even your grandmother, to find some data
-    in an early draft of a data table that you are developing, observing
-    her interaction, and discussing issues.
+-   Informal evaluations of a specific accessibility issues can be very simple. Ask someone you know who uses a screen reader or someone with other disabilities to find some data in an early draft of a data table. You could also ask someone not tech-savvy to do the same thing. Observe their interaction and discuss the issues.
 -   Formal usability testing of a website follows established protocols
     to gather quantitative and qualitative data from representative
     users performing specific tasks. [Formal usability tests can be
@@ -90,19 +80,11 @@ Accessibility](/WAI/users/involving)** for guidance on [getting a range
 of users](/WAI/users/involving#diverse) and [users' experience
 interacting with the web](/WAI/users/involving#experience)
 
-Just as with any evaluation with users, whether you include novice,
-average, or advanced users depends on your target users. For example, if
-you are developing a web application to be used by accountants inside a
-company, you probably want advanced assistive technology users; for a
-public website to apply for disability benefits, you want novice
-assistive technology users.
+Just as with any evaluation with users, whether you include novice, average, or advanced users depends on your target users. For example, if you are developing a web application for accountants inside a company, you probably want advanced assistive technology users. But for a public website to apply for disability benefits, you want novice assistive technology users.
 
-<mark><strong>Caution: Carefully consider all feedback and avoid
+<mark><strong>Caution: Carefully consider all feedback. Avoid
 assuming that feedback from one person with a disability applies to all
-people with disabilities.</strong></mark> A person with a disability does not
-necessarily know how other people with the same disability interact with
-the web, nor know enough about other disabilities to provide valid
-guidance on other accessibility issues.
+people with disabilities.</strong></mark> A person with a disability does not necessarily know how other people with the same disability interact with the web. They also may not know enough about other disabilities to provide valid guidance on other accessibility issues. Getting input from a range of users is best.
 
 Note: In addition to finding accessibility problems, evaluating with
 users with disabilities usually reveals general usability problems that
@@ -130,8 +112,7 @@ with keyboard access, it could be because:
 Combine User Evaluation with Standards {#stdstoo}
 --------------------------------------------------
 
-Involving users with disabilities in evaluation has many benefits;
-however, it alone cannot determine if a website is accessible. Combine
+Involving users with disabilities in evaluation has many benefits. But that alone cannot determine if a website is accessible. Combine
 user involvement with [evaluating conformance to
 WCAG](/test-eval/conformance-eval/) to ensure that
 accessibility is provided to users with a range of disabilities and
@@ -140,18 +121,14 @@ situations.
 Drawing Conclusions and Reporting {#drawing}
 ---------------------------------------------
 
-Be careful drawing conclusions from limited evaluations or studies.
+Be careful about drawing conclusions from limited evaluations or studies.
 Results from only a couple of people with disabilities cannot be
 generalized to apply to all people with similar disabilities or people
 with other disabilities. See the [Caution](#caution) above.
 
 Reports should include the scope of the study and the evaluation
-parameters, such as the testing methods and the user characteristics.
-For example, if a study included only usability testing with
-participants who are blind, its report should clarify that it did not
-evaluate conformance to accessibility guidelines and that it does not
-apply to all people with disabilities. Thus the report can help readers
-draw appropriate conclusions.
+parameters. For instance, the testing methods and the user characteristics.
+Consider a study included only usability testing with participants who are blind. The report should clarify that it did not test conformance to accessibility guidelines. It should further state that the findings do not apply to all people with disabilities. Thus the report can help readers draw appropriate conclusions.
 
 While small studies often provide useful information, they are not
 robust enough to provide statistical significance.
@@ -160,7 +137,7 @@ Note for usability professionals {#ut-access}
 ----------------------------------------------
 
 When specifically exploring accessibility barriers, the protocol is
-usually different from a general usability test; for example:
+usually different from a general usability test. For example:
 
 -   you would likely use a think-aloud technique with high facilitator
     interaction;
@@ -170,8 +147,7 @@ usually different from a general usability test; for example:
 -   tasks would concentrate on specific areas of concern for potential
     accessibility problems, rather than general site usage.
 
-Note that is is also important to evaluate general usability, user
-satisfaction, and other such criteria for users with disabilities.
+Note that it is also important to evaluate other factors for users with disabilities. These factors include: General usability, user satisfaction, and other similar criteria.
 
 The More Information section below includes additional guidance
 specifically for usability professionals.
@@ -184,12 +160,11 @@ Many resources on other aspects of involving users in evaluation are
 available on the Web.
 
 -   [Involving Users in Web Projects for Better, Easier
-    Accessibility](/plan/involving-users/) is a
-    prerequisite for this document that covers broader issues of
+    Accessibility](/plan/involving-users/). It is a
+    prerequisite for this document. It covers broader issues of
     including users *early* in website design, tool development,
     standards, and other web projects.
--   [Just Ask: Integrating Accessibility Throughout Design](http://www.uiaccess.com/accessucd/overview.html)
-    provides guidance on incorporating accessibility throughout design
+-   [Just Ask: Integrating Accessibility Throughout Design](http://www.uiaccess.com/accessucd/overview.html). It provides guidance on incorporating accessibility throughout design
     of websites and other products. The chapter on [Usability Testing
     for Accessibility](http://www.uiaccess.com/accessucd/ut.html)
     includes:
@@ -215,7 +190,7 @@ available on the Web.
 -   [White paper: conducting user evaluations with people with
     disabilities](http://www-03.ibm.com/able/resources/userevaluations.html)
 -   Many books, articles, conference presentations, and other resources
-    cover usability evaluation techniques, including different types of
+    cover usability evaluation techniques. They include different types of
     usability testing; test design; developing test protocol including
     questionnaires, tasks, data collection; conducting pilot tests; and
     how many participants to include in usability testing. For example:
