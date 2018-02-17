@@ -5,9 +5,23 @@ redirect_from: /
 layout: default
 ---
 
+{::options toc_levels="2" /}
+
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" %}
+{:/}
+
+-   TOC is created automatically.
+{:toc}
+
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
+
+
 Introduction
 ----------------------
-{:#intro.no_toc.no-display}
+{:#intro}
 
 Web accessibility evaluation often focuses on [conformance to accessibility standards](/test-eval/conformance-eval/) such as [WCAG](/standards/wcag/). While conformance is important, there are many [benefits to evaluating with real people](http://www.w3.org/WAI/EO/Drafts/involving/Overview.html#why). For example, to learn how your website or web tool really works for users and to better understand accessibility issues. Evaluating with users with disabilities and with older users identifies usability issues that are not discovered by conformance evaluation alone.
 
