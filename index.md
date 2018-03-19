@@ -2,6 +2,8 @@
 title: "Involving Users in Evaluating Web Accessibility"
 permalink: /test-evaluate/involving-users/
 layout: default
+github:
+  repository: w3c/wai-InvolveUsersEval
 footer: >
   <p><strong>Content last updated</strong><strong>: 3 August 2010</strong> [<a href="https://www.w3.org/EO/WAI/EO/changelogs/cl-impl-users.html">changelog</a><a href="https://www.w3.org/EO/WAI/changelogs/cl-responding.html"></a>]<br>
   Editor: Shawn Lawton Henry. <a href="https://www.w3.org/WAI/eval/ack#users">Acknowledgements</a> lists contributors. Developed by the <a href="http://www.w3.org/WAI/EO/">Education and Outreach Working Group</a>. Updated as part of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a><strong> (IST 035015</strong>) funded by the <strong>European Commission under the  6th Framework</strong>.</p>
