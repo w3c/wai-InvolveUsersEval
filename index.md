@@ -5,8 +5,10 @@ layout: default
 github:
   repository: w3c/wai-InvolveUsersEval
 footer: >
-  <p><strong>Content last updated</strong><strong>: 3 August 2010</strong> [<a href="https://www.w3.org/EO/WAI/EO/changelogs/cl-impl-users.html">changelog</a><a href="https://www.w3.org/EO/WAI/changelogs/cl-responding.html"></a>]<br>
-  Editor: Shawn Lawton Henry. <a href="https://www.w3.org/WAI/eval/ack#users">Acknowledgements</a> lists contributors. Developed by the <a href="http://www.w3.org/WAI/EO/">Education and Outreach Working Group</a>. Updated as part of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a><strong> (IST 035015</strong>) funded by the <strong>European Commission under the  6th Framework</strong>.</p>
+  <p><strong>Date:</strong> Updated 13 Fenruary 2018. First published November 2005.</p>
+  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="https://www.w3.org/WAI/eval/ack#users">Acknowledgements</a> lists contributors.</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Updated as part of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
+
 ---
 
 {::options toc_levels="2" /}
