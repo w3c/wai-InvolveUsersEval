@@ -29,17 +29,17 @@ Introduction
 ----------------------
 {:#intro}
 
-Web accessibility evaluation often focuses on [conformance to accessibility standards](/test-eval/conformance-eval/) such as [WCAG](/standards/wcag/). While conformance is important, there are many [benefits to evaluating with real people](http://www.w3.org/WAI/EO/Drafts/involving/Overview.html#why). For example, to learn how your website or web tool really works for users and to better understand accessibility issues. Evaluating with users with disabilities and with older users identifies usability issues that are not discovered by conformance evaluation alone.
+Web accessibility evaluation often focuses on [conformance to accessibility standards]({{ "/test-evaluate/conformance/" | relative_url }}) such as [WCAG]({{ "/standards-guidelines/wcag/" | relative_url }}). While conformance is important, there are many [benefits to evaluating with real people](http://www.w3.org/WAI/EO/Drafts/involving/Overview.html#why). For example, to learn how your website or web tool really works for users and to better understand accessibility issues. Evaluating with users with disabilities and with older users identifies usability issues that are not discovered by conformance evaluation alone.
 
-This page is part of a multi-page [Evaluating Web Accessibility resource suite](/WAI/eval/Overview) that outlines different aspects of evaluating web accessibility. It is the second of two pages on including users in web projects. **Please read [Including Users in Web Projects for Better, Easier Accessibility](/WAI/users/involving), which covers broader issues of including users *early* in website design, tool development, standards, and other web projects.**
+This page is part of a multi-page [Evaluating Web Accessibility resource suite]({{ "/test-evaluate/" | relative_url }}) that outlines different aspects of evaluating web accessibility. It is the second of two pages on including users in web projects. **Please read [Including Users in Web Projects for Better, Easier Accessibility]({{ "/plan/involving-users/" | relative_url }}), which covers broader issues of including users *early* in website design, tool development, standards, and other web projects.**
 
 Initial Review {#prelim}
 -------------------------
 
 A first step in evaluating web accessibility is reviewing the website to
 check for any obvious accessibility problems. The [Preliminary
-Review](/test-eval/easychecks/) and [Conformance
-Evaluation](/test-eval/conformance-eval/) pages provide
+Review]({{ "/test-evaluate/preliminary/" | relative_url }}/) and [Conformance
+Evaluation]({{ "/test-evaluate/conformance/" | relative_url }}) pages provide
 guidance.
 
 Even web developers with little accessibility knowledge can find some accessibility issues through a
@@ -126,7 +126,7 @@ Combine User Evaluation with Standards {#stdstoo}
 
 Involving users with disabilities in evaluation has many benefits. Yet that alone cannot determine if a website is accessible. Combine
 user involvement with [evaluating conformance to
-WCAG](/test-eval/conformance-eval/) to ensure that
+WCAG]({{ "/test-evaluate/conformance/" | relative_url }}) to ensure that
 accessibility is provided to users with a range of disabilities and
 situations.
 
@@ -169,7 +169,7 @@ Many resources on other aspects of involving users in evaluation are
 available on the Web.
 
 -   [Involving Users in Web Projects for Better, Easier
-    Accessibility](/plan/involving-users/) is a
+    Accessibility]({{ "/plan/involving-users/" | relative_url }}) is a
     prerequisite for this document. It covers broader issues of
     including users *early* in website design, tool development,
     standards, and other web projects.
