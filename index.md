@@ -197,7 +197,7 @@ available on the Web.
         – distinguishing between accessibility and usability issues,
         drawing conclusions, writing about people with disabilities
 -   [White paper: conducting user evaluations with people with
-    disabilities](http://www-03.ibm.com/able/resources/userevaluations.html)
+    disabilities](https://web.archive.org/web/20160603030517/http://www-03.ibm.com/able/resources/userevaluations.html)
 -   Many books, articles, conference presentations, and other resources
     cover usability evaluation techniques. They include different types of
     usability testing; test design; developing test protocol including
