@@ -1,5 +1,9 @@
 {
-      "group":      35532
-  ,   "contacts":   ["slhenry"]
-  ,   "shortName":  "wai-InvolveUsersEval"
-  }
+  "group": 35532,
+  "contacts": [
+    "slhenry"
+  ],
+  "shortName": "wai-InvolveUsersEval",
+  "repo-type": "article",
+  "policy": "open"
+}
