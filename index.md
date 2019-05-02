@@ -5,7 +5,7 @@ layout: default
 github:
   repository: w3c/wai-InvolveUsersEval
 footer: >
-  <p><strong>Date:</strong> Updated 13 Fenruary 2018. First published November 2005.</p>
+  <p><strong>Date:</strong> Updated 13 February 2018. First published November 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="https://www.w3.org/WAI/eval/ack#users">Acknowledgements</a> lists contributors.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Updated as part of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
 
