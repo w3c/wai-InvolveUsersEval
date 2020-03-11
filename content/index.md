@@ -7,9 +7,9 @@ github:
   repository: w3c/wai-InvolveUsersEval
   path: content/index.md
 footer: >
-  <p><strong>Date:</strong> Updated 13 February 2018. First published November 2005.</p>
+  <p><strong>Date:</strong> Updated 10 March 2020. First published November 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="https://www.w3.org/WAI/eval/ack#users">Acknowledgements</a> lists contributors.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Updated as part of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework.</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Updated as part of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework. Video developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="/WAI/test-evaluate/acknowledgements">Acknowledgments for video</a>.<</p>
 
 ---
 
