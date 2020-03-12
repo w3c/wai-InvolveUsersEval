@@ -28,17 +28,16 @@ footer: >
 
 {% include excol.html type="start" id="video-intro" %}
 
-## <img src="https://www.w3.org/WAI/content-images/wai-intro-accessibility/video-still-accessibility-perspectives-16-9.jpg" alt="" style="height: 2em; border-radius: .25em; vertical-align: middle;"> Video: Comprehensive Evaluation
+## {% include image.html src="video-thumb-involving-users.png" alt="" class="video tiny" %} Video: Involving Users {#video}
 
 {% include excol.html type="middle" %}
 
 {% include video-player.html
-    yt-id="93UgG72os8M"
-    captions="/keyboard-en.vtt|en|Captions"
-    descriptions=""
+    yt-id="KYN27EhHzhA"
+    captions="http://media.w3.org/wai/evaluation-intros/involving-users-cc.vtt"
 %}
 
-_This video is also available on a [W3C server (file format: MP4, file size: 2MB) - Video: Comprehensive Evaluation](https://@@)._
+_This video is also available on a [W3C server (file format: MP4, file size: 38MB) - Video: Involving Users](http://media.w3.org/wai/evaluation-intros/involving-users.mp4)._
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
@@ -53,50 +52,69 @@ Text Transcript with Description of Visuals
       <th>Visual</th>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-      <td>Web Accessibility Perspectives: Keyboard Compatibility</td>
-      <td>Web Accessibility Perspectives:<br />
-        Keyboard Compatibility</td>
-    </tr>
-    <tr>
-      <td>Not being able to use your computer because your mouse doesn't work, is frustrating.</td>
-      <td>A man drops his computer mouse off the desk. The computer mouse no longer works.</td>
-    </tr>
-    <tr>
-      <td>Many people use only the keyboard to navigate websites &mdash; either through preference or circumstance.<br /></td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Whether it's temporarily limited mobility,</td>
-      <td>A woman with her arm in a sling is typing on a keyboard &mdash; but the website requires the use of a mouse to select the date.</td>
-    </tr>
-    <tr>
-      <td>a permanent physical disability,</td>
-      <td>A man with a wheelchair is using a mouth-stick to type.</td>
-    </tr>
-    <tr>
-      <td>or simply a broken mouse,<br />
-        the result is the same:</td>
-      <td>The man with the wheelchair also cannot use the site.</td>
-    </tr>
-    <tr>
-      <td>Websites and apps need to be operable by keyboard.</td>
-      <td>He switches to a different website that allows typing the date.</td>
-    </tr>
-    <tr>
-      <td>Web accessibility: Essential for some, useful for all.</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Visit w3.org/WAI/perspectives for more information on Keyboard Compatibility</td>
-      <td>Visit<br />
-        w3.org/WAI/perspectives<br />
-        for more information on<br />
-        Keyboard Compatibility.<br />
-        W3C Web Accessibility Initiative logo</td>
-    </tr>
-  </tbody>
+<tbody>
+  <tr>
+    <td>Involving users in web accessibility. </td>
+    <td>Involving users in web accessibility.</td>
+  </tr>
+  <tr>
+    <td>Accessibility is about making your websites and applications usable by people with disabilities. That includes your customers, clients, employees, students, and others. </td>
+    <td>Accessibility. A person in front of a computer. Next to the computer the words: customers; clients; employees; and students.</td>
+  </tr>
+  <tr>
+    <td>Unfortunately many approach accessibility just as a checklist. This risks missing the real purpose of accessibility - the user experience. </td>
+    <td>A checklist replaces the person. The website on the screen crumbles. 4 people replace the computer and checklist.</td>
+  </tr>
+  <tr>
+    <td>Involving people with disabilities throughout your design and development process can be more effective and yield better results:
+      <ul>
+        <li> designers and developers learn how people with disabilities use the web, and understand assistive technologies and adaptive strategies they use;</li>
+      </ul></td>
+    <td>The group of people are surrounded by icons inserted in a development process cycle:  pen icon; coding icon; paintbrush icon; and a magnifying glass icon. 
+Smaller versions of these people are integrated in the process cycle.</td>
+  </tr>
+  <tr>
+    <td>(continued list)
+      <ul>
+        <li> the project team is more motivated when they understand how their work impacts people's lives;</li>
+      </ul></td>
+    <td>The process icons remain as the people are replaced with a motivation gauge.</td>
+  </tr>
+  <tr>
+    <td>(continued list)
+      <ul>
+        <li> development is more efficient, and your products work better for more people, with and without disability;</li>
+      </ul></td>
+    <td>The process icons remain as the gauge is replaced with a graph showing an upward trend in results. The chart is replaced with multiple people figures.</td>
+  </tr>
+  <tr>
+    <td>(continued list)
+      <ul>
+        <li> your resulting products are more inclusive and reach a bigger audience, have higher customer satisfaction, and demonstrate social responsibility.</li>
+      </ul></td>
+    <td>The people increase in numbers as the process icons are removed. A 5 star rating appears above the people to get all 5 stars filled. The people transition into a globe with a heart in the middle.</td>
+  </tr>
+  <tr>
+    <td>"Involving Users in Web Projects for Better, Easier Accessibility" provides guidance on project planning, and throughout the design and development process. </td>
+    <td>Involving Users in Web Projects for Better, Easier Accessibility. The development process cycle with icons appears.</td>
+  </tr>
+  <tr>
+    <td>"Involving Users in Evaluating Web Accessibility" provides more specific guidance on the evaluation stage of the process. </td>
+    <td>Involving Users in Evaluating Web Accessibility. The icons in the process cycle are focused in turn with a magnifying glass.</td>
+  </tr>
+  <tr>
+    <td>Together these resources help you focus on accessibility for your website users rather than focusing on technical requirements only. </td>
+    <td>Involving Users in Evaluating Web Accessibility and Involving Users in Web Projects for Better, Easier Accessibility. merge into a person in front of the computer. On the screen, passes and fails are marked.</td>
+  </tr>
+  <tr>
+    <td>Web accessibility: essential for some, useful for all </td>
+    <td>Icons around a computer: hand; eye; brain; ear; and mouth with sound waves.</td>
+  </tr>
+  <tr>
+    <td>For information on involving users in web accessibility, visit w3.o-r-g/W-A-I/involve-users. </td>
+    <td>Involving Users in Web Accessibility, W3C and Web Accessibility Initiative (WAI) logos.</td>
+  </tr>
+</tbody>
 </table>
 
 {% include excol.html type="end" %}
