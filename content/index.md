@@ -7,9 +7,10 @@ github:
   repository: w3c/wai-InvolveUsersEval
   path: content/index.md
 footer: >
-  <p><strong>Date:</strong> Updated 10 March 2020. First published November 2005.</p>
-  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="https://www.w3.org/WAI/eval/ack#users">Acknowledgements</a> lists contributors.</p>
-  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Updated as part of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework. Video developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="/WAI/test-evaluate/acknowledgements">Acknowledgments for video</a>.<</p>
+  <p>Note about video description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p>
+  <p><strong>Date:</strong> Main content updated 13 February 2018. Intro video added 28 April 2020. First published November 2005.</p>
+  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="https://www.w3.org/WAI/eval/ack#users">Acknowledgements</a> lists contributors.</p>
+  <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Updated as part of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework. Video developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="/WAI/test-evaluate/acknowledgements">Acknowledgments for video</a>.</p>
 
 ---
 
@@ -28,16 +29,16 @@ footer: >
 
 {% include excol.html type="start" id="video-intro" %}
 
-## {% include image.html src="video-thumb-involving-users.png" alt="" class="video tiny" %} Video: Involving Users {#video}
+## {% include image.html src="video-thumb-involving-users.png" alt="" class="video tiny" %} Video: Involving Users in Web Accessibility Overview {#video}
 
 {% include excol.html type="middle" %}
 
 {% include video-player.html
-    yt-id="KYN27EhHzhA"
+    yt-id="lIA2zTXq_ts"
     captions="http://media.w3.org/wai/evaluation-intros/involving-users-cc.vtt"
 %}
 
-_This video is also available on a [W3C server (file format: MP4, file size: 38MB) - Video: Involving Users](http://media.w3.org/wai/evaluation-intros/involving-users.mp4)._
+_This video is also available on a W3C server: [Video: Involving Users in Web Accessibility Overview (file format: MP4, file size: 38MB)](http://media.w3.org/wai/evaluation-intros/involving-users.mp4)._
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
