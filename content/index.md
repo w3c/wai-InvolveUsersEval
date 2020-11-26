@@ -3,6 +3,7 @@ title: "Involving Users in Evaluating Web Accessibility"
 permalink: /test-evaluate/involving-users/
 ref: /test-evaluate/involving-users/
 lang: en
+last_updated: 2020-04-28
 github:
   repository: w3c/wai-InvolveUsersEval
   path: content/index.md
