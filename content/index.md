@@ -163,7 +163,7 @@ In most cases, including users in evaluation involves:
 -   including them throughout the development process to complete sample tasks on prototypes so you can see how the different aspects of the design and coding could be improved
 -   discussing accessibility issues with them
 
-**See [[Including Users in Web Projects for Better, Easier Accessibility]](/WAI/users/involving)** for guidance on [getting a range of users](/WAI/users/involving#diverse) and [users' experience interacting with the web](/WAI/users/involving#experience)
+**See [[Involving Users in Web Projects for Better, Easier Accessibility]](/planning/involving-users/)** for guidance on [getting a range of users](/WAI/users/involving#diverse) and [users' experience interacting with the web](/WAI/users/involving#experience)
 
 Just as with any evaluation with users, whether you include novice, average, or advanced users depends on your target users. For example, if you are developing a web application for accountants inside a company, you probably want advanced assistive technology users. And for a public website to apply for disability benefits, you want novice assistive technology users.
 
