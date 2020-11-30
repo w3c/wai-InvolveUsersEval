@@ -3,7 +3,7 @@ title: "Involving Users in Evaluating Web Accessibility"
 permalink: /test-evaluate/involving-users/
 ref: /test-evaluate/involving-users/
 lang: en
-last_updated: 2020-04-28
+last_updated: 2020-11-30
 github:
   repository: w3c/wai-InvolveUsersEval
   path: content/index.md
@@ -211,7 +211,7 @@ The More Information section below includes additional guidance specifically for
 
 This document briefly addresses a few points of a very complex topic. Many resources on other aspects of involving users in evaluation are available on the Web.
 
--  ** [[Involving Users in Web Projects for Better, Easier Accessibility]](/planning/involving-users/) is a prerequisite for this document**. It covers broader issues of including users early in website design, tool development, standards, and other web projects.
+-  **[[Involving Users in Web Projects for Better, Easier Accessibility]](/planning/involving-users/) is a prerequisite for this document**. It covers broader issues of including users early in website design, tool development, standards, and other web projects.
 -   [Just Ask: Integrating Accessibility Throughout Design](http://www.uiaccess.com/accessucd/overview.html) provides guidance on incorporating accessibility throughout design of websites and other products. The chapter on [Usability Testing for Accessibility](http://www.uiaccess.com/accessucd/ut.html) includes:
     -   Planning for usability testing for accessibility – [determining participant characteristics](http://www.uiaccess.com/accessucd/ut_plan.html#characteristics), [recruiting participants](http://www.uiaccess.com/accessucd/ut_plan.html#recruiting), providing compensation
     -   Preparing for usability testing for accessibility – preparing test materials, ensuring the facility is accessible, setting up and testing the assistive technology, conducting a pilot test, using [screening techniques](http://www.uiaccess.com/accessucd/screening.html)
