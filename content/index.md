@@ -130,11 +130,11 @@ Web accessibility evaluation often focuses on [conformance to accessibility stan
 
 This page is part of a multi-page [Evaluating Web Accessibility resource suite](/test-evaluate/) that outlines different aspects of evaluating web accessibility. It is the second of two pages on including users in web projects.
 
-**Please read [[Including Users in Web Projects for Better, Easier Accessibility]](/planning/involving-users/), which covers broader issues of including users *early* in website design, tool development, standards, and other web projects.**
+**Please read [Including Users in Web Projects for Better, Easier Accessibility](/planning/involving-users/), which covers broader issues of including users *early* in website design, tool development, standards, and other web projects.**
 
 ## Initial Review {#prelim}
 
-A first step in evaluating web accessibility is reviewing the website to check for any obvious accessibility problems. For example, some checks are in [[Easy Checks – A First Review of Web Accessibility]] (/test-evaluate/preliminary/).
+A first step in evaluating web accessibility is reviewing the website to check for any obvious accessibility problems. For example, some checks are in [Easy Checks – A First Review of Web Accessibility](/test-evaluate/preliminary/).
 
 Even web developers with little accessibility knowledge can find some accessibility issues through an initial review. An accessibility expert with first-hand experience of how people with different disabilities interact with the web can:
 
