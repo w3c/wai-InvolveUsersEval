@@ -1,5 +1,5 @@
 ---
-title: "Implication des utilisateurs dans le processus d'évaluation de l'accessibilité Web"
+title: "Inclure les utilisateurs dans le processus d'évaluation de l'accessibilité Web"
 permalink: /test-evaluate/involving-users/fr
 ref: /test-evaluate/involving-users/
 lang: fr
@@ -8,9 +8,9 @@ github:
   repository: w3c/wai-InvolveUsersEval
   path: content/index.fr.md
 footer: >
-  <p>Note à propos de l'audiodescription : la vidéo sur cette page n'inclut l'audiodescription synchronisée car les images n'illustrent que l'audio et ne fournissent pas d'informations supplémentaires. Dans ce cas-ci, l'audiodescription serait plus distrayante qu'utile pour la plupart des utilisateurs, y compris les personnes qui ne peuvent pas voir les images. La description des informations contenues dans les images est reprise dans la transcription avec la description des images ("transcription descritive").</p>
+  <p>Note à propos de l'audiodescription : la vidéo présente sur cette page n'inclut pas l'audiodescription synchronisée car les images n'illustrent que l'audio et ne fournissent pas d'informations supplémentaires. Dans ce cas-ci, l'audiodescription serait plus distrayante qu'utile pour la plupart des utilisateurs, y compris pour les personnes qui ne peuvent pas voir les images. La description des informations contenues dans les images est reprise dans la transcription avec la description des images ("transcription descritive").</p>
   <p><strong>Date :</strong> Mise à jour : 30 novembre 2020. Première publication : novembre 2005.</p>
-  <p><strong>Rédacteur :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="https://www.w3.org/WAI/eval/ack#users">Remerciements</a> : liste les contributeurs.</p>
+  <p><strong>Rédactrice :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="https://www.w3.org/WAI/eval/ack#users">Remerciements</a> : liste les contributeurs.</p>
   <p>Développé par le Groupe de travail Éducation et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Développé avec des membres du <a href="http://www.w3.org/WAI/WAI-AGE/"> projet WAI-AGE</a> financé par la Commission européenne au titre du 6e programme-cadre. Vidéo développée avec le soutien du projet <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> financé par par la Commission européenne dans le cadre le programme Horizon 2020 (822245). <a href="/WAI/test-evaluate/acknowledgements">Remerciements pour la vidéo</a>.</p>
 
 ---
@@ -30,7 +30,7 @@ footer: >
 
 {% include excol.html type="start" id="video-intro" %}
 
-## {% include image.html src="video-thumb-involving-users.png" alt="" class="video tiny" %} Vidéo : vue d'ensemble : inclure les utilisateurs dans l'accessibilité Web {#video}
+## {% include image.html src="video-thumb-involving-users.png" alt="" class="video tiny" %} Video: Involving Users in Web Accessibility Overview {#video}
 
 {% include excol.html type="middle" %}
 
@@ -39,11 +39,11 @@ footer: >
     captions="/content-images/wai-InvolveUsersEval/involving-users-cc.vtt|en|Captions"
 %}
 
-_Cette vidéo est aussi disponible sur un serveur du W3C : [Vidéo: Vue d'ensemble : implication des utilisateurs dans l'accessibilité Web (format du fichier : MP4, taille du fichier: 45MB)](http://media.w3.org/wai/evaluation-intros/involving-users.mp4)._
+_Cette vidéo est aussi disponible sur un serveur du W3C : [Vidéo : Vue d'ensemble de l'inclusion des utilisateurs dans l'accessibilité Web (format du fichier : MP4, taille du fichier : 38 Mo)](http://media.w3.org/wai/evaluation-intros/involving-users.mp4)._
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
-Text Transcript with Description of Visuals
+Transcription avec description visuelle
 
 {% include excol.html type="middle" %}
 
@@ -56,38 +56,38 @@ Text Transcript with Description of Visuals
   </thead>
 <tbody>
   <tr>
-    <td>Implication les utilisateurs dans l'accessibilité Web.</td>
-    <td>Implication les utilisateurs dans l'accessibilité Web.</td>
+    <td>Inclure les utilisateurs dans l'accessibilité Web. </td>
+    <td>Inclure les utilisateurs dans l'accessibilité Web.</td>
   </tr>
   <tr>
-    <td>L'objectif de l'accessibilité est de permettre aux personnes en situation de handicap d'utiliser les sites et les applications Web. Cela comprend les consommateurs, les clients, les employés, les étudiants, et les autres.</td>
+    <td>L'accessibilité Web consiste à rendre des sites et des applications Web accessibles aux personnes en situation de handicap. Cela comprend les consommateurs, les clients, les employés, les étudiants, parmi tant d'autres. </td>
     <td>L'accesibilité. Une personne se trouve face à un ordinateur. À côté de l'ordinateur apparaissent les mots : consommateurs ; clients ; employés ; et étudiants.</td>
   </tr>
   <tr>
-    <td>Malheureusement, bon nombre de personnes considèrent l'accessibilité comme une liste d'étapes à suivre. De cette manière, elles risquent de passer à côté de la raison d'être de l'accessibilité - l'expérience utilisateur.</td>
+    <td>Malheureusement, bon nombre de personnes considèrent l'accessibilité comme une liste d'étapes à suivre. De cette manière, elles risquent de passer à côté de la raison d'être de l'accessibilité - l'expérience utilisateur. </td>
     <td>Une checklist remplace la personne. Le site Web se désagrège sur l'écran. 4 personnes remplacent l'ordinateur et la checklist.</td>
   </tr>
   <tr>
-    <td>Impliquer des personnes en situation de handicap tout au long des processus de design et de développement peut être plus pratique et prduit de meilleurs résultats :
+    <td>Inclure des personnes en situation de handicap tout au long des processus de conception et de développement peut s'avérer plus pratique et produit de meilleurs résultats :
       <ul>
         <li> les designers et les développeurs apprennent comment les personnes handicapées utilisent le Web, et comprennent les technologies d'assistance et les stratégies d'adaptation qu'ils utilisent ;</li>
       </ul></td>
     <td>Le groupe de personnes est entouré par des icônes au sein d'un cycle représentant le processus de développement : un icône crayon ; un icône de codage ; un icône pinceau ; et un icône loupe.
-Des versions plus petites de ces personnes sont intégrées dans un cycle représentant un processus.</td>
+Des versions plus petites de ces personnes sont intégrées dans un cycle représentant le processus.</td>
   </tr>
   <tr>
     <td>(suite de la liste)
       <ul>
-        <li> l'équipe du projet est plus motivée lorsqu'elle comprend les effets de leur travail sur la vie des utilisateurs ;</li>
+        <li> l'équipe chargée du projet est plus motivée lorsqu'elle comprend les conséquences positives de leur travail dans la vie des utilisateurs ;</li>
       </ul></td>
-    <td>Les icônes représentant le processus apparaissent toujours et les personnes sont remplacées par une jauge qui évalue la motivation.</td>
+    <td>Les icônes représentant le processus sont toujours présents et les personnes sont remplacées par une jauge évaluant la motivation.</td>
   </tr>
   <tr>
     <td>(suite de la liste)
       <ul>
         <li> le développement est plus efficace, et vos produits fonctionnent mieux pour plus de personnes, avec ou sans handicap ;</li>
       </ul></td>
-    <td>Les icônes représentant le processus apparaissent toujours et la jauge est remplacée par un graphique sur lequel une courbe ascendante des résultats est représentée. Le graphique est remplacé par un nombre de personnes qui se multiplie.</td>
+    <td>Les icônes représentant le processus sont toujours présents et la jauge est remplacée par un graphique sur lequel une courbe ascendante des résultats est représentée. Le graphique est remplacé par un nombre de personnes qui se multiplie.</td>
   </tr>
   <tr>
     <td>(suite de la liste)
@@ -97,24 +97,24 @@ Des versions plus petites de ces personnes sont intégrées dans un cycle repré
     <td>Le nombre des personnes croît et les icônes représentant le processus disparaissent. Un classement à cinq étoiles apparaît au-dessus des personnes et les cinq étoiles se remplissent. Les personnes laissent place à une Terre contenant un coeur en son milieu.</td>
   </tr>
   <tr>
-    <td>"L'implication des utilisateurs dans les projets Web pour une accessibilité plus optimale et plus facile" fournit une aide pour l'organisation d'un projet, et sur le processus de design et de développement.</td>
-    <td>L'implication des utilisateurs dans les projets Web, pour une accessibilité plus optimale et plus facile. Le cycle représentant le processus de développement qui inclut les icônes disparaît.</td>
+    <td>"Inclure les utilisateurs dans les projets Web pour une accessibilité plus optimale et plus facile" fournit des conseils pour organiser un projet, et un accompagnement tout au long du processus de design et de développement. </td>
+    <td>Inclure les utilisateurs dans les projets Web, pour une accessibilité plus optimale et plus facile. Le cycle représentant le processus de développement qui inclut les icônes disparaît.</td>
   </tr>
   <tr>
-    <td>"L'implication des utilisateurs lors de l'évaluation de l'accessibilité Web" fournit une aide plus spécifique sur les étapes d'évaluation du processus.</td>
-    <td>L'implication des utilisateurs lors de l'évaluation de l'accessibilité Web. Les icônes du cyle représentant le processys sont mis en avant tour à tour grâce à une loupe.</td>
+    <td>"Inclure des utilisateurs lors de l'évaluation de l'accessibilité Web" fournit une aide plus spécifique sur les étapes d'évaluation du processus. </td>
+    <td>Inclure des utilisateurs lors de l'évaluation de l'accessibilité Web. Les icônes du cyle représentant le processus sont mis en avant tour à tour à l'aide d'une loupe.</td>
   </tr>
   <tr>
-    <td>Toutes ces ressources vous aident à porter votre attention sur l'accessibilité pour les utiliteurs de votre site Web plutôt que de ne regarder uniquement qu'aux besoins techniques.</td>
-    <td>"L'implication des utilisateurs lors de l'évaluation de l'accessibilité Web" et "L'implication des utilisateurs dans les projets Web pour une accessibilité plus optimale et plus facile" fusionnent et se transforment en une personne en face de l'ordinateur. Des validations et des erreurs s'affichent sur l'écran.</td>
+    <td>Toutes ces ressources vous aident à porter votre attention sur l'accessibilité pour les utilisateurs de votre site Web plutôt que de ne regarder qu'aux besoins techniques seulement. </td>
+    <td>"Inclure les utilisateurs lors de l'évaluation de l'accessibilité Web" et "Inclure les utilisateurs dans les projets Web pour une accessibilité plus optimale et plus facile" fusionnent et se transforment en une personne face à l'ordinateur. Des icônes de validations et d'erreurs s'affichent à l'écran.</td>
   </tr>
   <tr>
-    <td>L'accessibilité Web : essentielle pour certains, utile à tous.</td>
+    <td>L'accessibilité Web : essentielle pour certains, utile à tous. </td>
     <td>Des icônes apparaissent autour d'un ordinateur : une main ; un oeil ; un cerveau ; une oreille ; et une bouche avec des ondes sonores.</td>
   </tr>
   <tr>
-    <td>Pour plus d'informations sur l'implication des utilisateurs, allez sur w3.o-r-g/W-A-I/involve-users. </td>
-    <td>L'implication des utilisateurs dans l'accessibilité Web, les logos du W3C et de l'Initiative d'Accès au Web (WAI)</td>
+    <td>Pour plus d'informations sur l'inclusion des utilisateurs, allez sur w3.o-r-g/W-A-I/involve-users. </td>
+    <td>Inclure des utilisateurs dans l'accessibilité Web, les logos du W3C et de l'Initiative pour l'accessibilité du Web (WAI)</td>
   </tr>
 </tbody>
 </table>
@@ -126,97 +126,97 @@ Des versions plus petites de ces personnes sont intégrées dans un cycle repré
 
 ## Introduction {#intro}
 
-L'évaluation de l'accessibilité Web met souvent l'accent sur la [conformité aux standards d'accessibilité](/test-evaluate/conformance/) tels que les [WCAG](/standards-guidelines/wcag/). Bien que la conformité aient son importance, il existe de nombreux [avantages à impliquer des utilisateurs dans le processus d'évaluation](/planning/involving-users/#why). Par exemple, pour apprendre comment votre site ou vos outils Web fonctionnent pour les utilisateurs et pour mieux comprendre les questions d'accessibilité. Impliquer des personnes handicapées et des personnes âgées dans le processus d'évaluation permet d'identifier les problèmes liés à l'utilisation qui ne peuvent pas être détectés par l'évaluation de conformité uniquement.
+L'évaluation de l'accessibilité Web met souvent l'accent sur la [conformité aux standards d'accessibilité](/test-evaluate/conformance/) tels que les [WCAG](/standards-guidelines/wcag/). Bien que la conformité aie son importance, il existe de nombreux [avantages à inclure les utilisateurs dans le processus d'évaluation](/planning/involving-users/#why). Par exemple, pour apprendre comment votre site ou vos outils Web fonctionnent pour les utilisateurs et pour mieux comprendre les questions en matière d'accessibilité. Inclure des personnes handicapées et des personnes âgées dans le processus d'évaluation permet d'identifier les problèmes liés à l'utilisation qui ne peuvent pas être détectés par l'évaluation de conformité uniquement.
 
-Cette page fait partie d'un ensemble de pages his page is part of a multi-page [Ensemble des ressources sur l'évaluation de l'accessibilité Web](/test-evaluate/) qui donne un aperçu des différents aspects de l'évaluation de l'accessibilité Web. Il s'agit de la seconde page d'un ensemble de deux pages traitant de l'implication des utilisateurs dans les projets Web.
+Cette page fait partie d'un ensemble de pages intitulé [Ensemble des ressources portant sur l'évaluation de l'accessibilité Web](/test-evaluate/) qui donne un aperçu des différents aspects de l'évaluation de l'accessibilité Web. Il s'agit de la seconde page d'un ensemble de deux pages traitant de l'inclusion des utilisateurs dans les projets Web.
 
-**Veuillez lire [[L'implication des utilisateurs dans les projets Web pour une accessibilité plus optimale et plus facile]](/planning/involving-users/), qui aborde des questions plus vastes sur l'implication des utilisateurs *au début* de la création du site Web, du développement des outils, des standards, et des autres projets Web.**
+**Veuillez lire [[Inclure les utilisateurs dans les projets Web pour une accessibilité plus optimale et plus facile]](/planning/involving-users/), qui aborde des questions plus vastes sur l'inclusion des utilisateurs *au début* de la conception d'un site Web, du développement d'outils, des standards, et d'autres projets Web.**
 
 ## Premières vérifications {#prelim}
 
-Une des première étapes pour évaluer l'accessibilité Web consiste à repérer les problèmes évidents d'accessibilité. Par exemple, vous retrouverez certaines vérifications sur [[Vérifications simples – Une première vérification de l'accessibilité Web]] (/test-evaluate/preliminary/).
+Une des premières étapes pour évaluer l'accessibilité Web consiste à repérer les problèmes d'accessibilité évidents. Par exemple, vous retrouverez certaines vérifications sur [[Vérifications simples – Une première vérification de l'accessibilité Web]] (/test-evaluate/preliminary/).
 
-Même les développeurs Web avec un minimum de connaissances en accessibilité peut trouver des problèmes d'accessibilité lors d'une première vérification. Un expert en accessibilité qui sait comment les personnes en situation de handicap interagissent avec le Web peut : 
+Même les développeurs Web possédant un minimum de connaissances en accessibilité sont capables de repérer des problèmes d'accessibilité lors d'une première vérification. Un expert en accessibilité qui sait comment les personnes en situation de handicap interagissent avec le Web peut, quant à lui :
 
--   evaluate accessibility issues for a broad range of users, which might not be found by individual users
--   help fix any known barriers before bringing in users
--   focus the evaluation with users on potential areas of concern
+-   évaluer les problèmes d'accessibilité pour un grand nombre d'utilisateurs, qui n'auraient pas forcément été détectés par les utilisateurs ;
+-   aider à régler tout obstacle identifié avant d'inclure les utilisateurs ;
+-   axer l'évaluation impliquant les utilisateurs sur les parties qui pourraient potentiellement poser problème
 
-**The initial review identifies any significant accessibility barriers to fix before evaluating with users. It also helps define what to focus on for evaluation with users.**
+**La première vérification indentifie les obstacles significatifs à l'accessibilité qu'il faudra régler avant l'évaluation impliquant les utilisateurs. Elle aide aussi à définir quelles parties devront faire l'objet d'une attention particulière lors de l'évaluation effectuée avec les utilisateurs.**
 
-## Range of User Evaluation {#range}
+## Types d'évaluations incluant les utilisateurs {#range}
 
-Users with disabilities and older users can be included in a wide range of evaluation activities, from brief consultations to large-scale usability studies. **There are many options in between these extremes**:
+Les utilisateurs en situation de handicap et les utilisateurs plus âgés peuvent être impliqués dans une grande variété d'activités liées à l'évaluation, des consultations rapides, aux études d'utilisation à grande échelle. **Il existe un large choix d'activités entre ces deux extrêmes** :
 
--   **Informal evaluations** of specific accessibility issues can be very simple. For example, ask someone you know who uses a screen reader or someone with other disabilities to find some data in an early draft of a data table. Observe their interaction and discuss the issues.
--   **Formal usability testing** of a website follows established protocols to gather quantitative and qualitative data from representative users performing specific tasks. [Formal usability tests can be optimized](#ut-access) to focus on accessibility issues.
+-   **Les évaluations informelles** de problèmes d'accessibilité bien spécifiques peuvent s'avérer très simples. Par exemple, il peut s'agir de demander à quelqu'un qui utilise un lecteur d'écran ou quelqu'un avec un handicap différent de trouver des données dans un tableau de données. Il suffit ensuite d'observer leur interaction et d'échanger sur les différents problèmes rencontrés.
+-   **Le test d'utilisation formel** d'un site Web suit des protocoles préétablis pour rassembler des données quantitatives et qualititatives provenant d'utilisateurs représentatifs lors de la réalisation de tâches spécifiques. [Les tests d'utilisation formels peuvent être optimisés](#ut-access) pour mettre en exergue les problèmes d'accesibilité.
 
-What type of evaluation you do depends on factors such as the stage in your project, for example, initial investigation of design ideas, testing specific areas of prototypes, or reviewing final designs.
+Le type d'évaluation que vous pratiquez dépend de facteurs tels que l'étape à laquelle vous vous trouvez dans votre projet, par exemple, si vous en êtes au début de la recherche d'idées de conception, au test de différentes parties de vos prototypes, ou à la vérification finale de vos créations.
 
-**Conducting informal evaluations throughout development is more effective than only formal usability testing at the end of a project.**
+**Mener des évaluations informelles tout au long du développement est plus efficace qu'effectuer un test d'utilisation formel en fin de projet.**
 
-## Basics {#basics}
+## Les fondamentaux {#basics}
 
-In most cases, including users in evaluation involves:
+Dans la plupart des cas, inclure les utilisateurs lors de l'évaluation suppose d' :
 
--   getting a few people with disabilities - and depending on your target audience, older users
--   including them throughout the development process to complete sample tasks on prototypes so you can see how the different aspects of the design and coding could be improved
--   discussing accessibility issues with them
+-   inclure quelques utilisateurs en situation de handicap - et selon votre public cible, des utilisateurs âgés
+-   les inclure tout au long du développement pour effectuer des exemples de tâches sur vos prototypes pour vous permettre d'identifier quels aspects de la conception et du code peuvent être améliorés
+-   échanger à propos des problèmes d'accessibilité avec eux
 
-**See [[Involving Users in Web Projects for Better, Easier Accessibility]](/planning/involving-users/)** for guidance on [getting a range of users](/WAI/users/involving#diverse) and [users' experience interacting with the web](/WAI/users/involving#experience)
+**Allez sur [[Inclure les utilisateurs dans les projets Web pour une accessibilité plus optimale et plus facile]](/planning/involving-users/)** pour trouver de l'aide dans [Inclure différents utilisateurs](/WAI/users/involving#diverse) et [expérience des utilisateurs interagissant avec le Web](/WAI/users/involving#experience)
 
-Just as with any evaluation with users, whether you include novice, average, or advanced users depends on your target users. For example, if you are developing a web application for accountants inside a company, you probably want advanced assistive technology users. And for a public website to apply for disability benefits, you want novice assistive technology users.
+Comme pour toute évaluation avec des utilisateurs, inclure des utilisateurs de niveau basique, intermédiaire ou avancé, dépendra de vos utilisateurs cibles. Par exemple, si vous développez une application Web pour des comptables au sein d'une entreprise, vous opterez certainement pour des utilisateurs de technologies d'assistance d'un niveau avancé. Par contre, pour un site Web destiné aux demandes de prestation d'invalidité, vous travaillerez plutôt avec des utilisateurs de technologies d'assistance novices.
 
-<mark><strong>Caution:</strong> Carefully consider all input. <strong>Avoid assuming that input from one person with a disability applies to all people with disabilities. </strong></mark>
+<mark><strong>Attention :</strong> prêtez attention à toutes les données. <strong>Évitez de supposer que les données d'une personne présentant une certaine forme de handicap s'appliquent à toutes les personnes handicapées. </strong></mark>
 
-A person with a disability does not necessarily know how other people with the same disability interact with the web. They might not know enough about other disabilities to provide valid guidance on other accessibility issues. Getting input from a range of users is best.
+Une personne handicapée ne sait pas forcément comment d'autres personnes présentant le même type de handicap interagissent avec le Web. Elle pourrait ne pas en savoir assez sur les autres handicaps pour fournir une aide valable pour d'autres questions d'accessibilité. Il est préférable de rassembler des données de plusieurs types d'utilisateurs.
 
-Note: In addition to finding accessibility problems, evaluating with users with disabilities usually reveals general usability problems that impact all users, including those *without* disabilities.
+Note : en plus de détecter des problèmes d'accessibilité, l'évaluation menée avec des utilisateurs handicapés révèlent des problèmes généraux d'utilisation qui touchent tous les utilisateurs, y compris ceux qui ne se trouvent *pas* en situation de handicap.
 
-## Analyzing Accessibility Issues {#analyz}
+## Analyse des problèmes d'accessibilité {#analyz}
 
-Web accessibility depends on several [components of web development and interaction working together](/fundamentals/components/), including web browsers, assistive technologies (AT), and web content.
+L'accessibilité Web dépend de l'association [des différents composants du développement Web avec l'interaction](/fundamentals/components/), dont les navigateurs Web, les technologies d'assistance, et le contenu Web.
 
-Accessibility problems can be caused by one or more different components. For example, if a user who cannot use a mouse has trouble with keyboard access, it could be because:
+Les problèmes d'accessibilité peuvent être causés par un ou plusieurs composants. Par exemple, si un utilisateur qui ne peut pas utiliser une souris n'arrive pas à accéder aux fonctionnalités clavier des technologies d'assistance, il peut y avoir plusieurs explications :
 
--   the developer did not markup/code the web page properly, or
--   the browser or media player isn't handling the markup properly, or
--   the user's AT isn't handling the markup properly, or
--   the user doesn't know how to use the browser, media player, or AT's keyboard access features, or
--   the page is poorly designed and it is a general usability problem for all users, including those *without* disabilities
+-   le développeur n'a pas balisé/codé correctement la page Web, ou
+-   le navigateur ou le lecteur multimédia ne lit pas correctement le code, ou
+-   la technologie d'assistance ne lit pas correctement le code, ou
+-   l'utilisateur ne sait pas comment utiliser le navigateur ou le lecteur multimédia ou les fonctionnalités accessibles au clavier des technologies d'assistance, ou
+-   la page n'est pas correment conçue et il s'agit d'un problème général d'utilisation pour tous les utilisateurs, y compris ceux qui ne se trouvent *pas* en situation de handicap.
+s
+## Associez l'évaluation des utilisateurs aux standards {#stdstoo}
 
-## Combine User Evaluation with Standards {#stdstoo}
+Inclure les utilisateurs handicapés dans l'évaluation présente de nombreux avantages. Ceci dit, cela ne suffit pas à déterminer l'accessibilité d'un site Web. Associez l'inclusion des utilisateurs à l'[évaluation de la conformité aux WCAG](/test-evaluate/conformance/) afin de garantir l'accessibilité pour différents types de handicaps et de situations.
 
-Involving users with disabilities in evaluation has many benefits. Yet that alone cannot determine if a website is accessible. Combine user involvement with [evaluating conformance to WCAG](/test-evaluate/conformance/) to ensure that accessibility is provided to users with a range of disabilities and situations.
+## Tirez des conclusions et créez un rapport {#drawing}
 
-## Drawing Conclusions and Reporting {#drawing}
+Faites attention si vous tirez des conclusions d'évaluations ou d'études limitées. Les résultats obtenus avec deux personnes handicapées ne peuvent être généralisés et appliqués à toutes les personnes dans la même situation de handicap ou présentant d'autres handicaps. Retrouvez plus d'informations dans la section [Attention](#caution) ci-dessous.
 
-Be careful drawing conclusions from limited evaluations or studies. Results from only a couple of people with disabilities cannot be generalized to apply to all people with similar disabilities or people with other disabilities. See the [Caution](#caution) above.
+Incluez dans votre rapport le cadre de votre étude et les paramètres de l'évaluation, tels que les méthodes de test et les caractéristiques des utilisateurs. Par exemple, si une étude a inclu uniquement des personnes aveugles, le rapport devra préciser que celle-ci n'a pas évalué la conformité aux standards d'accessibilité et qu'elle ne s'applique pas à toutes les personnes handicapées. Bien que les études de petite envergure peuvent souvent fournir des informations utiles, elles ne sont pas assez solides pour fournir une signification statistique.
 
-Include in the reports the scope of the study and the evaluation parameters, such as testing methods and user characteristics. For example, if a study included only participants who are blind, the report should clarify that it did not evaluate conformance to accessibility standards and that it does not apply to all people with disabilities. While small studies often provide useful information, they are not robust enough to provide statistical significance.
+## Note à l'attention des ergonomes {#ut-access}
 
-## Note for usability professionals {#ut-access}
+Lors de la recherche d'obstacles à l'accessibilité spécifiques, le protocole est généralement différent d'un test d'utilisation général. Par exemple :
 
-When specifically exploring accessibility barriers, the protocol is usually different from a general usability test. For example:
+-   vous utiliseriez certainement un système de réfléxion à voix haute et une forte interaction avec l'organisateur des tests
+-   la collecte des données serait axée sur la compréhension des erreurs relatives aux obstacles à l'accessibilité, plutôt que sur le temps passé à réaliser une tâche ou sur la satifaction utilisateur
+-   les tâches seraient axées sur des parties spécifiques qui pourraient potentiellement poser problème, plutôt que sur l'utilisation générale du site
 
--   you would likely use a think-aloud technique with high facilitator interaction
--   data collection would focus on understanding errors related to accessibility barriers, rather than on time-on-task or user satisfaction
--   tasks would concentrate on specific areas of concern for potential accessibility problems, rather than general site usage
+Notez qu'il est également important d'évaluer d'autres facteurs pour les utilisateurs handicapés. Ces facteurs comprennent : l'utilisation générale, la satisfaction utilisateur, et d'autres critères semblables.
 
-Note that it is also important to evaluate other factors for users with disabilities. These factors include: General usability, user satisfaction, and other similar criteria.
+La section Plus d'informations ci-dessous inclut une aide supplémentaire à l'attention des ergonomes.
 
-The More Information section below includes additional guidance specifically for usability professionals.
+## Plus d'informations et aide {#fmi}
 
-## More Information and Guidance {#fmi}
+Ce document aborde brièvement quelques points d'un sujet très complexe. De nombreuses ressources traitant des autres aspects liés à l'inclusion des utilisateurs dans l'évaluation sont disponibles sur le Web.
 
-This document briefly addresses a few points of a very complex topic. Many resources on other aspects of involving users in evaluation are available on the Web.
-
--  **[[Involving Users in Web Projects for Better, Easier Accessibility]](/planning/involving-users/) is a prerequisite for this document**. It covers broader issues of including users early in website design, tool development, standards, and other web projects.
--   [Just Ask: Integrating Accessibility Throughout Design](http://www.uiaccess.com/accessucd/overview.html) provides guidance on incorporating accessibility throughout design of websites and other products. The chapter on [Usability Testing for Accessibility](http://www.uiaccess.com/accessucd/ut.html) includes:
-    -   Planning for usability testing for accessibility – [determining participant characteristics](http://www.uiaccess.com/accessucd/ut_plan.html#characteristics), [recruiting participants](http://www.uiaccess.com/accessucd/ut_plan.html#recruiting), providing compensation
-    -   Preparing for usability testing for accessibility – preparing test materials, ensuring the facility is accessible, setting up and testing the assistive technology, conducting a pilot test, using [screening techniques](http://www.uiaccess.com/accessucd/screening.html)
-    -   Conducting a usability test for accessibility – [interacting with people with disabilities](http://www.uiaccess.com/accessucd/ut_conduct.html#interacting), setting up the room
-    -   [Reporting usability testing for accessibility](http://www.uiaccess.com/accessucd/ut_report.html) – distinguishing between accessibility and usability issues, drawing conclusions, writing about people with disabilities
--   [White paper: conducting user evaluations with people with disabilities](https://web.archive.org/web/20160603030517/http://www-03.ibm.com/able/resources/userevaluations.html)
--   Many books, articles, conference presentations, and other resources cover usability evaluation techniques. They include different types of usability testing; test design; developing test protocol including questionnaires, tasks, data collection; conducting pilot tests; and how many participants to include in usability testing. For example: [Usability Testing Demystified](http://www.alistapart.com/articles/usability-testing-demystified/), [sample test plans and forms from The Handbook of Usability Testing](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470185481,descCd-DOWNLOAD.html), and [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://www.sensible.com/rocketsurgery/index.html) with a sample usability test, scripts, and forms online.
--   There are organizations around the world that specialize in helping recruit people with disabilities and conduct evaluations with users with disabilities.
+-  **[[Inclure des utilisateurs dans les projets Web pour une accessibilité plus optimale et plus facile]](/planning/involving-users/) constitue un préambule à ce document**. Cette page traite de questions plus vastes sur l'inclusion des utilisateurs dès le début de la conception d'un site Web, du développement des outils, des standards, et des autres projets Web.
+-   [Demandez : Intégrer l'accessibilité tout au long de la conception](http://www.uiaccess.com/accessucd/overview.html) fournit de l'aide sur l'intégration de l'accessibilité tout au long de la conception de sites Web et d'autres produits. Le chapitre [Test d'utilisation pour évaluer l'accessibilité](http://www.uiaccess.com/accessucd/ut.html) comprend les différentes phases suivantes :
+    -   Organiser un test d'utilisation pour évaluer l'accessibilité – [déterminer les caractéristiques des participants](http://www.uiaccess.com/accessucd/ut_plan.html#characteristics), [recruter des participants](http://www.uiaccess.com/accessucd/ut_plan.html#recruiting), fournir une compensation
+    -   Préparer le test d'utilisation pour évaluer l'accessibilité – préparer des supports de test, garantir l'accessibilité des installations, mettre en place et tester les technologies d'assistance, mener un test pilote, utiliser des [méthodes de screening](http://www.uiaccess.com/accessucd/screening.html)
+    -   Mener un test d'utilisation pour évaluer l'accessibilité – [interagir avec des personnes handicapées](http://www.uiaccess.com/accessucd/ut_conduct.html#interacting), préparer la pièce où aura lieu le test
+    -   [Créer un rapport à partir du test d'utilisation pour évaluer l'accessibilité](http://www.uiaccess.com/accessucd/ut_report.html) – distinguer les problèmes d'accessibilité des problèmes d'utilisation, tirer des conclusions, donner des informations sur les personnes handicapées
+-   [Livre blanc : mener des évaluations incluant les utilisateurs avec des personnes handicapées](https://web.archive.org/web/20160603030517/http://www-03.ibm.com/able/resources/userevaluations.html)
+-   De nombreux livres, articles, conférences, et autres ressources traitent des différentes méthodes pour évaluer l'utilisation. Ces ressources comprennent divers types de tests d'utilisation, des conceptions de tests, des protocoles de développement de tests, dont des questionnaires, des tâches, la collecte de données ; la réalisation de tests pilotes ; et le nombre de participants à inclure dans un test d'utilisation. Par exemple : [Les tests d'utilisation démystifiés](http://www.alistapart.com/articles/usability-testing-demystified/), [Des exemples de plans et de formulaires de test tirés de "The Handbook of Usability Testing"](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470185481,descCd-DOWNLOAD.html), et de [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://www.sensible.com/rocketsurgery/index.html) avec un exemple de test d'utilisation, de scripts et de formulaires en ligne.
+-   Il existe des organisations partout dans le monde spécialisées dans l'accompagnement pour recruter des personnes handicapées et mener des évaluations avec des utilisateurs handicapés.
