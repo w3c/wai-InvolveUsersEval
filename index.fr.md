@@ -4,6 +4,10 @@ permalink: /test-evaluate/involving-users/fr
 ref: /test-evaluate/involving-users/
 lang: fr
 last_updated: 2020-12-01
+translators:   
+- name: "Sofia Ahmed"
+contributors:
+- name: "Sandra Velarde Gonzalez (ETNIC)"
 github:
   repository: w3c/wai-InvolveUsersEval
   path: content/index.fr.md
