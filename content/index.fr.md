@@ -140,7 +140,7 @@ Cette page fait partie d'un ensemble de pages intitulé [Évaluer l'accessibilit
 
 ## Premières vérifications {#prelim}
 
-Une des premières étapes pour évaluer l'accessibilité Web consiste à repérer les problèmes d'accessibilité évidents d'un site Web. À titre d'exemple, vous trouverez certaines vérifications sur [[Vérifications simples – Faire un premier bilan de l'accessibilité Web]] (/test-evaluate/preliminary/).
+Une des premières étapes pour évaluer l'accessibilité Web consiste à repérer les problèmes d'accessibilité évidents d'un site Web. À titre d'exemple, vous trouverez certaines vérifications sur [[Vérifications simples – Faire un premier bilan de l'accessibilité Web]](/test-evaluate/preliminary/).
 
 Même les développeurs Web possédant peu de connaissances en accessibilité sont capables de repérer des problèmes d'accessibilité lors d'une première vérification. Un expert en accessibilité qui a une expérience directe de la manière dont les personnes en situation de handicap interagissent avec le Web peut, quant à lui :
 
@@ -154,10 +154,10 @@ Même les développeurs Web possédant peu de connaissances en accessibilité so
 
 Les utilisateurs en situation de handicap et les utilisateurs âgés peuvent être impliqués dans une grande variété d'activités d'évaluation, des consultations rapides aux tests utilisateurs à grande échelle. **Il existe plusieurs options entre ces deux extrêmes** :
 
--   **Les évaluations informelles** de problèmes d'accessibilité spécifiques peuvent s'avérer très simples. Par exemple, en demandant à quelqu'un qui utilise un lecteur d'écran ou quelqu'un avec un handicap différent de trouver des données dans une première ébauche de tableau de données. Il suffit ensuite d'observer leur interaction et d'échanger sur les différents problèmes rencontrés.
+-   **Les évaluations informelles** de problèmes spécifiques d'accessibilité peuvent s'avérer très simples. Par exemple, en demandant à quelqu'un qui utilise un lecteur d'écran ou quelqu'un avec un handicap différent de trouver des données dans une première ébauche de tableau de données. Il suffit ensuite d'observer leur interaction et d'échanger sur les différents problèmes rencontrés.
 -   **Le test d'utilisabilité formel** d'un site Web suit des protocoles préétablis pour rassembler des données quantitatives et qualitatives provenant d'utilisateurs représentatifs qui réalisent des tâches spécifiques. [Les tests utilisateurs formels peuvent être optimisés](#ut-access) pour mettre en exergue les problèmes d'accessibilité.
 
-Le type d'évaluation à pratiquer dépend de facteurs tels que le niveau d'avancement de votre projet ; par exemple, si vous en êtes à la recherche initiale d'idées de conception, au test de zones spécifiques de vos prototypes, ou à la vérification finale de vos créations.
+Le type d'évaluation à pratiquer dépend de facteurs tel que le niveau d'avancement de votre projet ; par exemple, si vous en êtes à la recherche initiale d'idées de conception, au test de zones spécifiques de vos prototypes, ou à la vérification finale de vos créations.
 
 **Mener des évaluations informelles tout au long du développement est plus efficace qu'effectuer un test d'utilisabilité formel en fin de projet.**
 
@@ -166,7 +166,7 @@ Le type d'évaluation à pratiquer dépend de facteurs tels que le niveau d'avan
 Dans la plupart des cas, inclure les utilisateurs lors de l'évaluation suppose :
 
 -   d'inclure quelques utilisateurs en situation de handicap - et selon votre public cible, des utilisateurs âgés
--   de les inclure tout au long du développement pour effectuer des tâches types sur vos prototypes afin de vous permettre d'identifier comment améliorer différents aspects de la conception et du code
+-   de les inclure tout au long du développement pour effectuer des tâches types sur vos prototypes, afin de vous permettre d'identifier comment améliorer différents aspects de la conception et du code
 -   d'échanger avec eux sur les problèmes d'accessibilité
 
 **Consultez [[Impliquer les utilisateurs dans les projets Web pour améliorer et faciliter l'accessibilité]](/planning/involving-users/)** pour en savoir plus sur [le recrutement d'une palette d'utilisateurs](/WAI/users/involving#diverse) et sur [l'expérience des utilisateurs interagissant avec le Web](/WAI/users/involving#experience).
