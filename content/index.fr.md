@@ -1,4 +1,5 @@
 ---
+# Translation info https://www.w3.org/wiki/WAI/Website/Translate
 title: "Impliquer les utilisateurs dans l'évaluation de l'accessibilité Web"
 permalink: /test-evaluate/involving-users/fr
 ref: /test-evaluate/involving-users/
@@ -9,10 +10,10 @@ translators:
   contributors:
 - name: "Sandra Velarde Gonzalez (ETNIC)"
 - name: "Rémi Bétin"
-  github:
+github:
   repository: w3c/wai-InvolveUsersEval
   path: content/index.fr.md
-  footer: >
+footer: >
   <p>Note à propos de l'audiodescription : la vidéo présente sur cette page n'inclut pas l'audiodescription synchronisée car les images n'illustrent que l'audio et ne fournissent pas d'informations supplémentaires. Dans ce cas-ci, l'audiodescription serait plus distrayante qu'utile pour la plupart des utilisateurs, y compris pour les personnes qui ne peuvent pas voir les images. La description des informations contenues dans les images est reprise dans la transcription textuelle avec description des visuels ("transcription descriptive").</p>
   <p><strong>Date :</strong> Mise à jour : 30 novembre 2020. Première publication : novembre 2005.</p>
   <p><strong>Rédactrice :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="https://www.w3.org/WAI/eval/ack#users">La page des remerciements</a> liste les contributeurs.</p>
