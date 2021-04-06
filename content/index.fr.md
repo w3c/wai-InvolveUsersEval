@@ -4,7 +4,7 @@ title: "Impliquer les utilisateurs dans l'évaluation de l'accessibilité Web"
 permalink: /test-evaluate/involving-users/fr
 ref: /test-evaluate/involving-users/
 lang: fr
-last_updated: 2021-03-19
+last_updated: 2021-04-06
 translators:
 - name: "Sofia Ahmed"
   contributors:
@@ -173,7 +173,7 @@ Dans la plupart des cas, inclure les utilisateurs lors de l'évaluation suppose 
 
 Comme pour toute évaluation avec des utilisateurs, inclure des utilisateurs de niveau basique, intermédiaire ou avancé dépendra de vos utilisateurs cibles. Par exemple, si vous développez une application Web pour des comptables au sein d'une entreprise, vous opterez certainement pour des utilisateurs ayant un usage avancé des technologies d'assistance. En revanche, pour un site Web destiné aux demandes de prestation d'invalidité, vous travaillerez plutôt avec des utilisateurs novices dans l'usage des technologies d'assistance.
 
-<mark><strong>Attention :</strong> Considérez avec précaution chaque contribution. <strong>Évitez de supposer que la contribution d'une personne présentant une certaine forme de handicap s'applique à toutes les personnes en situation de handicap. </strong></mark>
+<mark id="caution"><strong>Attention :</strong> Considérez avec précaution chaque contribution. <strong>Évitez de supposer que la contribution d'une personne présentant une certaine forme de handicap s'applique à toutes les personnes en situation de handicap. </strong></mark>
 
 Une personne en situation de handicap ne sait pas forcément comment d'autres personnes présentant le même type de handicap interagissent avec le Web. Elle pourrait ne pas en savoir assez sur les autres handicaps pour fournir une aide valable pour d'autres questions d'accessibilité. Il est préférable d'obtenir des contributions de plusieurs types d'utilisateurs.
 
