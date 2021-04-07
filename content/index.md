@@ -3,7 +3,7 @@ title: "Involving Users in Evaluating Web Accessibility"
 permalink: /test-evaluate/involving-users/
 ref: /test-evaluate/involving-users/
 lang: en
-last_updated: 2020-11-30
+last_updated: 2021-04-06
 github:
   repository: w3c/wai-InvolveUsersEval
   path: content/index.md
@@ -130,11 +130,11 @@ Web accessibility evaluation often focuses on [conformance to accessibility stan
 
 This page is part of a multi-page [Evaluating Web Accessibility resource suite](/test-evaluate/) that outlines different aspects of evaluating web accessibility. It is the second of two pages on including users in web projects.
 
-**Please read [Including Users in Web Projects for Better, Easier Accessibility](/planning/involving-users/), which covers broader issues of including users *early* in website design, tool development, standards, and other web projects.**
+**Please read [[Involving Users in Web Projects for Better, Easier Accessibility]](/planning/involving-users/), which covers broader issues of including users *early* in website design, tool development, standards, and other web projects.**
 
 ## Initial Review {#prelim}
 
-A first step in evaluating web accessibility is reviewing the website to check for any obvious accessibility problems. For example, some checks are in [Easy Checks – A First Review of Web Accessibility](/test-evaluate/preliminary/).
+A first step in evaluating web accessibility is reviewing the website to check for any obvious accessibility problems. For example, some checks are in [[Easy Checks – A First Review of Web Accessibility]](/test-evaluate/preliminary/).
 
 Even web developers with little accessibility knowledge can find some accessibility issues through an initial review. An accessibility expert with first-hand experience of how people with different disabilities interact with the web can:
 
@@ -167,7 +167,7 @@ In most cases, including users in evaluation involves:
 
 Just as with any evaluation with users, whether you include novice, average, or advanced users depends on your target users. For example, if you are developing a web application for accountants inside a company, you probably want advanced assistive technology users. And for a public website to apply for disability benefits, you want novice assistive technology users.
 
-<mark><strong>Caution:</strong> Carefully consider all input. <strong>Avoid assuming that input from one person with a disability applies to all people with disabilities. </strong></mark>
+<mark id="caution"><strong>Caution:</strong> Carefully consider all input. <strong>Avoid assuming that input from one person with a disability applies to all people with disabilities. </strong></mark>
 
 A person with a disability does not necessarily know how other people with the same disability interact with the web. They might not know enough about other disabilities to provide valid guidance on other accessibility issues. Getting input from a range of users is best.
 
