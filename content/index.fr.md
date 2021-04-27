@@ -6,10 +6,10 @@ ref: /test-evaluate/involving-users/
 lang: fr
 last_updated: 2021-04-06
 translators:
+- name: "Rémi Bétin"
 - name: "Sofia Ahmed"
   contributors:
 - name: "Sandra Velarde Gonzalez (ETNIC)"
-- name: "Rémi Bétin"
 github:
   repository: w3c/wai-InvolveUsersEval
   path: content/index.fr.md
