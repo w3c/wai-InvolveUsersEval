@@ -8,7 +8,7 @@ last_updated: 2021-04-06
 translators:
 - name: "Rémi Bétin"
 - name: "Sofia Ahmed"
-  contributors:
+contributors:
 - name: "Sandra Velarde Gonzalez (ETNIC)"
 github:
   repository: w3c/wai-InvolveUsersEval
