@@ -43,7 +43,7 @@ footer: >
 
 {% include video-player.html
 yt-id="lIA2zTXq_ts"
-path="/content-images/wai-video-standards-and-benefits/"
+path="/content-images/wai-InvolveUsersEval/"
 captions="involving-users-cc.vtt|en"
 subtitles="involving-users-fr.vtt|fr|default"
 %}
