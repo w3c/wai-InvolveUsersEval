@@ -4,7 +4,7 @@ title: "Impliquer les utilisateurs dans l'évaluation de l'accessibilité Web"
 permalink: /test-evaluate/involving-users/fr
 ref: /test-evaluate/involving-users/
 lang: fr
-last_updated: 2021-04-06
+last_updated: 2021-06-02
 translators:
 - name: "Rémi Bétin"
 - name: "Sofia Ahmed"
@@ -14,13 +14,24 @@ contributors:
 github:
   repository: w3c/wai-InvolveUsersEval
   path: content/index.fr.md
+description: Introduit des considérations pour les tests d'utilisabilité et autres évaluations avec des personnes handicapées ("utilisateurs en situation de handicap").
 footer: >
   <p>Note à propos de l'audiodescription : la vidéo présente sur cette page n'inclut pas l'audiodescription synchronisée car les images n'illustrent que l'audio et ne fournissent pas d'informations supplémentaires. Dans ce cas-ci, l'audiodescription serait plus distrayante qu'utile pour la plupart des utilisateurs, y compris pour les personnes qui ne peuvent pas voir les images. La description des informations contenues dans les images est reprise dans la transcription textuelle avec description des visuels ("transcription descriptive").</p>
-  <p><strong>Date :</strong> Mise à jour : 30 novembre 2020. Première publication : novembre 2005.</p>
+  <p><strong>Date :</strong> Mise à jour : 1<sup>er</sup> juin 2021. Première publication : novembre 2005.</p>
   <p><strong>Rédactrice :</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="https://www.w3.org/WAI/eval/ack#users">La page des remerciements</a> liste les contributeurs.</p>
   <p>Développé par le groupe de travail Éducation et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Mis à jour dans le cadre du <a href="http://www.w3.org/WAI/WAI-AGE/"> projet WAI-AGE</a> financé par la Commission européenne au titre du 6e programme-cadre. Vidéo créée avec le soutien du projet <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> financé par la Commission européenne dans le cadre du programme Horizon 2020 (convention de subvention n°822245). <a href="/WAI/test-evaluate/acknowledgements">Remerciements pour la vidéo</a>.</p>
 
 ---
+
+{::nomarkdown}
+{% include box.html type="start" title="Résumé" class="" %}
+{:/}
+
+Cette page introduit des considérations pour les tests d'utilisabilité et autres évaluations avec des personnes handicapées ("utilisateurs en situation de handicap").
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 {::options toc_levels="2" /}
 
