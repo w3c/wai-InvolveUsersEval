@@ -3,17 +3,28 @@ title: "Involving Users in Evaluating Web Accessibility"
 permalink: /test-evaluate/involving-users/
 ref: /test-evaluate/involving-users/
 lang: en
-last_updated: 2021-04-06
+last_updated: 2021-06-01
 github:
   repository: w3c/wai-InvolveUsersEval
   path: content/index.md
+description: Introduces considerations for usability testing and other evaluation with disabled people (“users with disabilities”).
 footer: >
   <p>Note about video description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p>
-  <p><strong>Date:</strong> Updated 30 November 2020. First published November 2005.</p>
+  <p><strong>Date:</strong> Updated 1 June 2021. First published November 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="https://www.w3.org/WAI/eval/ack#users">Acknowledgements</a> lists contributors.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Updated as part of the <a href="https://www.w3.org/WAI/WAI-AGE/">WAI-AGE Project</a> funded by the European Commission under the 6th Framework. Video developed with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="/WAI/test-evaluate/acknowledgements">Acknowledgments for video</a>.</p>
 
 ---
+
+{::nomarkdown}
+{% include box.html type="start" title="Summary" class="" %}
+{:/}
+
+This page introduces considerations for usability testing and other evaluation with disabled people (“users with disabilities”).
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 {::options toc_levels="2" /}
 
