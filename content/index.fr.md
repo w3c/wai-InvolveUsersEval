@@ -4,7 +4,7 @@ title: "Impliquer les utilisateurs dans l'évaluation de l'accessibilité Web"
 permalink: /test-evaluate/involving-users/fr
 ref: /test-evaluate/involving-users/
 lang: fr
-last_updated: 2021-06-02
+last_updated: 2021-07-12
 translators:
 - name: "Rémi Bétin"
 - name: "Sofia Ahmed"
