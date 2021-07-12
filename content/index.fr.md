@@ -53,10 +53,10 @@ Cette page introduit des considérations pour les tests d'utilisabilité et autr
 {% include excol.html type="middle" %}
 
 {% include video-player.html
-yt-id="lIA2zTXq_ts"
-path="/content-images/wai-InvolveUsersEval/"
-captions="involving-users-cc.vtt|en"
-subtitles="involving-users-fr.vtt|fr|default"
+    yt-id="lIA2zTXq_ts"
+    path="/content-images/wai-InvolveUsersEval/"
+    captions="involving-users-cc.vtt|en"
+    subtitles="involving-users-fr.vtt|fr|default"
 %}
 
 _Cette vidéo est aussi disponible sur un serveur du W3C : [Vidéo : Impliquer les utilisateurs dans l'accessibilité Web - Vue d'ensemble (format du fichier : MP4, taille du fichier : 38 Mo)](http://media.w3.org/wai/evaluation-intros/involving-users.mp4)._
@@ -76,11 +76,11 @@ Transcription textuelle avec description des visuels
   </thead>
 <tbody>
   <tr>
-    <td>Impliquer les utilisateurs dans l'accessibilité Web. </td>
+    <td>Impliquer les utilisateurs dans l'accessibilité Web.</td>
     <td>Impliquer les utilisateurs dans l'accessibilité Web.</td>
   </tr>
   <tr>
-    <td>L'accessibilité Web consiste à rendre vos sites et vos applications Web utilisables par des personnes en situation de handicap. Nous parlons de vos consommateurs, de vos clients, de vos employés, de vos étudiants, etc. </td>
+    <td>L'accessibilité Web consiste à rendre vos sites et vos applications Web utilisables par les personnes en situation de handicap. Il s'agit de vos consommateurs, vos clients, vos employés, vos étudiants, etc.</td>
     <td>L'accessibilité. Une personne se trouve face à un ordinateur. À côté de l'ordinateur apparaissent les mots : consommateurs ; clients ; employés ; et étudiants.</td>
   </tr>
   <tr>
@@ -98,42 +98,42 @@ Ces personnes sont intégrées en plus petit dans le processus.</td>
   <tr>
     <td>(suite de la liste)
       <ul>
-        <li> l'équipe chargée du projet est plus motivée lorsqu'elle comprend les conséquences positives de leur travail dans la vie des utilisateurs ;</li>
+        <li>l'équipe chargée du projet est plus motivée lorsqu'elle comprend les conséquences positives de son travail dans la vie des utilisateurs ;</li>
       </ul></td>
     <td>Les icônes représentant le processus sont toujours présentes et les personnes sont remplacées par une jauge de motivation.</td>
   </tr>
   <tr>
     <td>(suite de la liste)
       <ul>
-        <li> le développement est plus efficient, et vos produits fonctionnent mieux pour plus de personnes, avec ou sans handicap ;</li>
+        <li>le développement est plus efficient, et vos produits fonctionnent mieux pour plus de personnes, avec ou sans handicap ;</li>
       </ul></td>
     <td>Les icônes représentant le processus sont toujours présentes et la jauge est remplacée par un graphique montrant des résultats en hausse. Le graphique est remplacé par des silhouettes de plusieurs personnes.</td>
   </tr>
   <tr>
     <td>(suite de la liste)
       <ul>
-        <li> et vos produits finaux sont plus inclusifs, touchent un public plus large, augmentent la satisfaction client, et démontrent votre responsabilité sociale.</li>
+        <li>et vos produits finaux sont plus inclusifs, touchent un public plus large, augmentent la satisfaction client, et démontrent votre responsabilité sociale.</li>
       </ul></td>
     <td>Le nombre des personnes croît et les icônes représentant le processus disparaissent. Un classement à cinq étoiles apparaît au-dessus des personnes et les cinq étoiles se remplissent. Les personnes laissent place à une Terre contenant un cœur en son milieu.</td>
   </tr>
   <tr>
-    <td>"Impliquer les utilisateurs dans les projets Web pour améliorer et faciliter l'accessibilité" fournit des conseils pour organiser un projet, et un accompagnement tout au long du processus de conception et de développement. </td>
+    <td>"Impliquer les utilisateurs dans les projets Web pour améliorer et faciliter l'accessibilité" fournit des conseils pour organiser un projet, et un accompagnement tout au long du processus de conception et de développement.</td>
     <td>Impliquer les utilisateurs dans les projets Web pour améliorer et faciliter l'accessibilité. Le cycle représentant le processus de développement, qui inclut les icônes, apparaît.</td>
   </tr>
   <tr>
-    <td>"Impliquer les utilisateurs dans l'évaluation de l'accessibilité Web" fournit une aide plus spécifique sur l'étape d'évaluation du processus. </td>
+    <td>"Impliquer les utilisateurs dans l'évaluation de l'accessibilité Web" fournit une aide plus spécifique sur l'étape d'évaluation du processus.</td>
     <td>Impliquer les utilisateurs dans l'évaluation de l'accessibilité Web. Les icônes du cycle représentant le processus sont mises en avant tour à tour à l'aide d'une loupe.</td>
   </tr>
   <tr>
-    <td>Ensemble, ces ressources vous aident à vous concentrer sur l'accessibilité pour les utilisateurs de votre site Web plutôt sur les seuls pré-requis techniques. </td>
+    <td>Ensemble, ces ressources vous aident à vous concentrer sur l'accessibilité pour les personnes qui utilisent votre site Web plutôt que sur les seuls pré-requis techniques. </td>
     <td>"Impliquer les utilisateurs dans l'évaluation de l'accessibilité Web" et "Impliquer les utilisateurs dans les projets Web pour améliorer et faciliter l'accessibilité" fusionnent et se transforment en une personne face à l'ordinateur. Sur l'écran, les éléments accessibles et non-accessibles sont signalés.</td>
   </tr>
   <tr>
-    <td>L'accessibilité Web : essentielle pour certains, utile à tous. </td>
+    <td>L'accessibilité du Web : essentielle pour certains, utile à tous.</td>
     <td>Des icônes apparaissent autour d'un ordinateur : une main ; un œil ; un cerveau ; une oreille ; et une bouche avec des ondes sonores.</td>
   </tr>
   <tr>
-    <td>Pour plus d'informations sur l'implication des utilisateurs, consultez w3.o-r-g/W-A-I/involve-users. </td>
+    <td>Pour plus d'informations sur l'implication des utilisateurs dans l'accessibilité Web, consultez w3.o-r-g/W-A-I/involve-users.</td>
     <td>Impliquer les utilisateurs dans l'accessibilité Web. Logos du W3C et de l'Initiative pour l'accessibilité du Web (WAI)</td>
   </tr>
 </tbody>
