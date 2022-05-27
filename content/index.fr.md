@@ -129,8 +129,8 @@ Ces personnes sont intégrées en plus petit dans le processus.</td>
     <td>« Impliquer les utilisateurs dans l’évaluation de l’accessibilité Web » et « Impliquer les utilisateurs dans les projets Web pour améliorer et faciliter l’accessibilité » fusionnent et se transforment en une personne face à l’ordinateur. Sur l’écran, les éléments accessibles et non-accessibles sont signalés.</td>
   </tr>
   <tr>
-    <td>L’accessibilité Web : essentielle pour certains, utile à tous. </td>
-    <td>Des icônes apparaissent autour d’un ordinateur : une main ; un œil ; un cerveau ; une oreille ; et une bouche avec des ondes sonores.</td>
+    <td>L’accessibilité Web : essentielle pour certains, utile à tous. </td>
+    <td>Des icônes apparaissent autour d’un ordinateur : une main ; un œil ; un cerveau ; une oreille ; et une bouche avec des ondes sonores.</td>
   </tr>
   <tr>
     <td>Pour plus d’informations sur l’implication des utilisateurs, consultez w3.o-r-g/W-A-I/involve-users. </td>
