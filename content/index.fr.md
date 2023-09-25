@@ -80,7 +80,7 @@ Transcription textuelle avec description des visuels
     <td>Impliquer les utilisateurs dans l’accessibilité Web.</td>
   </tr>
   <tr>
-    <td>L’accessibilité Web consiste à rendre vos sites et vos applications Web utilisables par les personnes en situation de handicap. Il s’agit de vos consommateurs, de vos clients, de vos employés, de vos étudiants, etc. </td>
+    <td>L’accessibilité Web consiste à rendre vos sites et vos applications Web utilisables par les personnes en situation de handicap. Il s’agit de vos consommateurs, vos clients, vos employés, vos étudiants, etc.</td>
     <td>L’accessibilité. Une personne se trouve face à un ordinateur. À côté de l’ordinateur apparaissent les mots : consommateurs ; clients ; employés ; et étudiants.</td>
   </tr>
   <tr>
