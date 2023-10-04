@@ -1,5 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
 title: "Impliquer les utilisateurs dans l’évaluation de l’accessibilité Web"
 permalink: /test-evaluate/involving-users/fr
 ref: /test-evaluate/involving-users/
