@@ -45,9 +45,9 @@ This page introduces considerations for usability testing and other evaluation w
 
 {% include excol.html type="middle" %}
 
-{% include video-player.html
+{% include video-player-data.html
+    video-id="involving-users"
     yt-id="lIA2zTXq_ts"
-    captions="/content-images/wai-InvolveUsersEval/involving-users-cc.vtt|en|Captions"
 %}
 
 _This video is also available on a W3C server: [Video: Involving Users in Web Accessibility Overview (file format: MP4, file size: 38MB)](http://media.w3.org/wai/evaluation-intros/involving-users.mp4)._
